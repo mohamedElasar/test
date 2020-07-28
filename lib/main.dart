@@ -1,6 +1,7 @@
 import 'package:almansoori_new/widgets/slider.dart';
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
+// this in first
 
 void main() => runApp(MyApp());
 
